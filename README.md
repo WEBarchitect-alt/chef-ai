@@ -4,6 +4,12 @@ Chef AI is a full-stack web application that helps users generate recipes based 
 
 It combines AI with a modern Netflix-style UI to make cooking simple, fast, and interactive.
 
+📸 Screenshots
+
+[Home](screenshots/home.png)
+[Home](screenshots/home2.png)
+[AI](screenshots/ai.png)
+[Recipe](screenshots/recipe.png)
 
 🚀 Features
 
