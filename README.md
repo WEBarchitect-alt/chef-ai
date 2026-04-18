@@ -6,10 +6,10 @@ It combines AI with a modern Netflix-style UI to make cooking simple, fast, and 
 
 📸 Screenshots
 
-![Home](screenshots/home)
-![Home2](screenshots/home2)
-![AI](screenshots/ai)
-![Recipe](screenshots/recipe)
+![Home](screenshots/home.png)
+![Home2](screenshots/home2.png)
+![AI](screenshots/ai.png)
+![Recipe](screenshots/recipe.png)
 
 🚀 Features
 
