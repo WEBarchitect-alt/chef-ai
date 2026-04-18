@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Netflix scrollbar */
+::-webkit-scrollbar {
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 10px;
+}
+
+/* Smooth animation */
+* {
+  transition: all 0.2s ease-in-out;
+}
