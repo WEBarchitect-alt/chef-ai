@@ -1,16 +1,64 @@
-# React + Vite
+🍳 Chef AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chef AI is a full-stack web application that helps users generate recipes based on available ingredients.
 
-Currently, two official plugins are available:
+It combines AI with a modern Netflix-style UI to make cooking simple, fast, and interactive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Generate recipes using ingredients
+- Voice input (talk to AI)
+- Clean card-based UI (inspired by Netflix)
+- Detailed recipe pages with steps and ingredients
+- Smooth loading and responsive design
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Tech Stack
+
+Frontend:
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+
+**Backend**
+- Node.js
+- Express
+- Groq API
+
+
+📁 Project Structure
+
+client/ → React frontend
+server/ → Node.js backend
+
+⚙️ Setup
+
+Frontend:
+
+cd client
+npm install
+npm run dev
+
+Backend:
+
+cd server
+npm install
+node server.js
+
+
+🔐 Environment Variables
+
+Create a `.env` file inside the server folder:
+
+
+
+📌 Notes
+
+- API keys are not included for security
+- Make sure to create your own key before running
+
+
+👨‍💻 Author
+
+Trivikram
